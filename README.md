@@ -11,7 +11,6 @@ My work focuses on **Budget Analysis** and providing financial insights to suppo
 ## 🛠️ Tech Stack
 * **Languages:** Python, SQL
 * **Data Tools:** Power BI, Excel, Pandas
-* **Databases:** SQL Server, PostgreSQL
 * **Others:** Git, VS Code
 
 ## 📈 GitHub Stats
