@@ -9,12 +9,12 @@ My work focuses on **Budget Analysis** and providing financial insights to suppo
 * I’m currently enhancing my skills in **Python** for financial automation and **Data Visualization**.
 
 ## 🛠️ Tech Stack
-* **Languages:** Python, SQL
+* **Programming Languages:** Python
 * **Data Tools:** Power BI, Excel, Pandas
 * **Others:** Git, VS Code
 
-## 📈 GitHub Stats
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablohscarvalho&show_icons=true&theme=dracula)
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohscarvalho&layout=compact&theme=dracula)
 
 ## 📫 Connect with me
 * 💼 [LinkedIn](https://www.linkedin.com/in/pablohscarvalho)
