@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Pablo Carvalho! 👋
 
-<!--
-**pablohscarvalho/pablohscarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** based in Recife-PE, Brazil, currently working at the **Court of Justice of Pernambuco (TJPE)**.
 
-Here are some ideas to get you started:
+My work focuses on **Budget Analysis** and providing financial insights to support strategic decision-making within the court.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+* I’m working on optimizing budgetary data processing at TJPE.
+* I’m currently enhancing my skills in **Python** for financial automation and **Data Visualization**.
+
+## 🛠️ Tech Stack
+* **Languages:** Python, SQL
+* **Data Tools:** Power BI, Excel, Pandas
+* **Databases:** SQL Server, PostgreSQL
+* **Others:** Git, VS Code
+
+## 📈 GitHub Stats
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablohscarvalho&show_icons=true&theme=dracula)
+
+## 📫 Connect with me
+* 💼 [LinkedIn](https://www.linkedin.com/in/pablohscarvalho)
+* 📧 [pablohenrique1942@gmail.com](mailto:pablohenrique1942@gmail.com)
